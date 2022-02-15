@@ -3,7 +3,7 @@ import pandas as pd
 from pandas import Series
 from pandas import DataFrame
 import json
-from kpds_package import config
+from kpds_pkg import config
 import datetime
 
 now = datetime.datetime.now()
